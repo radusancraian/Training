@@ -1,4 +1,4 @@
 <?PHP
 
 
-ECHO 'hELLO WORLD"';
+ECHO 'hELLO WORLD right now"';
