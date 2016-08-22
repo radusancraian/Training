@@ -11,4 +11,13 @@
         return $icon;
 
     }
-?>
+
+/** Make the date look nice
+ * @param $date
+ * @return bool|string
+ */
+    function date_nice($date)
+    {
+        return date('M j Y h:i A', $date);
+    }
+
